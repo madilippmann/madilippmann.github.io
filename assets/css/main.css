@@ -2073,7 +2073,7 @@ input, select, textarea {
 				border-radius: 0.35em;
 				border: solid 3px rgba(255, 255, 255, 0.5);
 				color: #fff;
-				content: 'View';
+				content: 'Visit Site';
 				display: inline-block;
 				font-size: 0.8em;
 				font-weight: 400;
@@ -2642,6 +2642,7 @@ input, select, textarea {
 		#header .image.avatar {
 			margin: 0 0 1em 0;
 			width: 6.25em;
+			width: 10.25em;
 		}
 
 /* Footer */
