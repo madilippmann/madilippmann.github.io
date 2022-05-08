@@ -2009,6 +2009,8 @@ input, select, textarea {
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
+		font-size: 30px;
+		transition: opacity .15s ease-in-out;
 	}
 
 		.icon:before {
@@ -2040,6 +2042,9 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
+		.icon:hover {
+			opacity: .8;
+		}
 /* Image */
 
 	.image {
